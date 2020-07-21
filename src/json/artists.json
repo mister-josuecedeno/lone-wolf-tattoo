@@ -1,42 +1,42 @@
 [
   {
-    "url": "https://github.com/bobziroll/scrimba-react-bootcamp-images/blob/master/pic1.jpg?raw=true",
+    "url": "https://github.com/mister-josuecedeno/lone-wolf-tattoo/blob/master/src/img/1-BEN-DIXON.jpg",
     "id": "1",
     "name": "Ben Dixon",
     "isFavorite": false
   },
   {
-    "url": "https://github.com/bobziroll/scrimba-react-bootcamp-images/blob/master/pic2.jpg?raw=true",
+    "url": "https://github.com/mister-josuecedeno/lone-wolf-tattoo/blob/master/src/img/2-DANIEL-BOSTIC.jpg",
     "id": "2",
     "name": "Daniel Bostic",
     "isFavorite": false
   },
   {
-    "url": "https://github.com/bobziroll/scrimba-react-bootcamp-images/blob/master/pic3.jpg?raw=true",
+    "url": "https://github.com/mister-josuecedeno/lone-wolf-tattoo/blob/master/src/img/3-JASON-PONCE.jpg",
     "id": "3",
     "name": "Jason Ponce",
     "isFavorite": false
   },
   {
-    "url": "https://github.com/bobziroll/scrimba-react-bootcamp-images/blob/master/pic4.jpg?raw=true",
+    "url": "https://github.com/mister-josuecedeno/lone-wolf-tattoo/blob/master/src/img/4-MIA-WOODS.jpg",
     "id": "4",
     "name": "Mia Woods",
     "isFavorite": false
   },
   {
-    "url": "https://github.com/bobziroll/scrimba-react-bootcamp-images/blob/master/pic5.jpg?raw=true",
+    "url": "https://github.com/mister-josuecedeno/lone-wolf-tattoo/blob/master/src/img/5-PHIL-SMITH.jpg",
     "id": "5",
     "name": "Phil Smith",
     "isFavorite": false
   },
   {
-    "url": "https://github.com/bobziroll/scrimba-react-bootcamp-images/blob/master/pic6.jpg?raw=true",
+    "url": "https://github.com/mister-josuecedeno/lone-wolf-tattoo/blob/master/src/img/6-RIK-SWEENEY.jpg",
     "id": "6",
     "name": "Rik Sweeney",
     "isFavorite": false
   },
   {
-    "url": "https://github.com/bobziroll/scrimba-react-bootcamp-images/blob/master/pic7.jpg?raw=true",
+    "url": "https://github.com/mister-josuecedeno/lone-wolf-tattoo/blob/master/src/img/7-STACEY-DIXON.jpg",
     "id": "7",
     "name": "Stacey Dixon",
     "isFavorite": false
