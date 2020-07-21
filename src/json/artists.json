@@ -2,36 +2,43 @@
   {
     "url": "https://github.com/bobziroll/scrimba-react-bootcamp-images/blob/master/pic1.jpg?raw=true",
     "id": "1",
+    "name": "Ben Dixon",
     "isFavorite": false
   },
   {
     "url": "https://github.com/bobziroll/scrimba-react-bootcamp-images/blob/master/pic2.jpg?raw=true",
     "id": "2",
+    "name": "Daniel Bostic",
     "isFavorite": false
   },
   {
     "url": "https://github.com/bobziroll/scrimba-react-bootcamp-images/blob/master/pic3.jpg?raw=true",
     "id": "3",
+    "name": "Jason Ponce",
     "isFavorite": false
   },
   {
     "url": "https://github.com/bobziroll/scrimba-react-bootcamp-images/blob/master/pic4.jpg?raw=true",
     "id": "4",
+    "name": "Mia Woods",
     "isFavorite": false
   },
   {
     "url": "https://github.com/bobziroll/scrimba-react-bootcamp-images/blob/master/pic5.jpg?raw=true",
     "id": "5",
+    "name": "Phil Smith",
     "isFavorite": false
   },
   {
     "url": "https://github.com/bobziroll/scrimba-react-bootcamp-images/blob/master/pic6.jpg?raw=true",
     "id": "6",
+    "name": "Rik Sweeney",
     "isFavorite": false
   },
   {
     "url": "https://github.com/bobziroll/scrimba-react-bootcamp-images/blob/master/pic7.jpg?raw=true",
     "id": "7",
+    "name": "Stacey Dixon",
     "isFavorite": false
   }
 ]
