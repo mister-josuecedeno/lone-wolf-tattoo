@@ -1,0 +1,37 @@
+[
+  {
+    "url": "https://github.com/bobziroll/scrimba-react-bootcamp-images/blob/master/pic1.jpg?raw=true",
+    "id": "1",
+    "isFavorite": false
+  },
+  {
+    "url": "https://github.com/bobziroll/scrimba-react-bootcamp-images/blob/master/pic2.jpg?raw=true",
+    "id": "2",
+    "isFavorite": false
+  },
+  {
+    "url": "https://github.com/bobziroll/scrimba-react-bootcamp-images/blob/master/pic3.jpg?raw=true",
+    "id": "3",
+    "isFavorite": false
+  },
+  {
+    "url": "https://github.com/bobziroll/scrimba-react-bootcamp-images/blob/master/pic4.jpg?raw=true",
+    "id": "4",
+    "isFavorite": false
+  },
+  {
+    "url": "https://github.com/bobziroll/scrimba-react-bootcamp-images/blob/master/pic5.jpg?raw=true",
+    "id": "5",
+    "isFavorite": false
+  },
+  {
+    "url": "https://github.com/bobziroll/scrimba-react-bootcamp-images/blob/master/pic6.jpg?raw=true",
+    "id": "6",
+    "isFavorite": false
+  },
+  {
+    "url": "https://github.com/bobziroll/scrimba-react-bootcamp-images/blob/master/pic7.jpg?raw=true",
+    "id": "7",
+    "isFavorite": false
+  }
+]
