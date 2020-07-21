@@ -11,12 +11,14 @@ const App = () => {
   const [isLoading, setIsLoading] = useState(true);
   const [query, setQuery] = useState('');
 
+  const IMAGE_URL =
+    'https://raw.githubusercontent.com/mister-josuecedeno/lone-wolf-tattoo/master/src/json/artists.json';
+
+  // Breaking BAD URL - `https://www.breakingbadapi.com/api/characters?name=${query}`
   useEffect(() => {
     const fetchItems = async () => {
-      const result = await axios(
-        `https://www.breakingbadapi.com/api/characters?name=${query}`
-      );
-      // console.log(result.data);
+      const result = await axios(IMAGE_URL);
+      console.log(result.data);
 
       setItems(result.data);
       setIsLoading(false);
