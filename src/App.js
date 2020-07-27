@@ -8,7 +8,6 @@ import './App.css';
 const App = () => {
   const [items, setItems] = useState([]);
   const [isLoading, setIsLoading] = useState(true);
-  const [query, setQuery] = useState('');
 
   const IMAGE_URL =
     'https://raw.githubusercontent.com/mister-josuecedeno/lone-wolf-tattoo/master/src/json/artists.json';
@@ -23,7 +22,7 @@ const App = () => {
     };
 
     fetchItems();
-  }, [query]);
+  }, []);
 
   return (
     <div className='container'>
