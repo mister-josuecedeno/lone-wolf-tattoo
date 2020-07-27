@@ -3,42 +3,49 @@
     "img": "https://raw.githubusercontent.com/mister-josuecedeno/lone-wolf-tattoo/master/src/img/1-BEN-DIXON.jpg",
     "id": "1",
     "name": "Ben Dixon",
+    "instagram": "bennydstarcommand",
     "isFavorite": false
   },
   {
     "img": "https://raw.githubusercontent.com/mister-josuecedeno/lone-wolf-tattoo/master/src/img/2-DANIEL-BOSTIC.jpg",
     "id": "2",
     "name": "Daniel Bostic",
+    "instagram": "danfreakingbostic",
     "isFavorite": false
   },
   {
     "img": "https://raw.githubusercontent.com/mister-josuecedeno/lone-wolf-tattoo/master/src/img/3-JASON-PONCE.jpg",
     "id": "3",
     "name": "Jason Ponce",
+    "instagram": "jasonponce15",
     "isFavorite": false
   },
   {
     "img": "https://raw.githubusercontent.com/mister-josuecedeno/lone-wolf-tattoo/master/src/img/4-MIA-WOODS.jpg",
     "id": "4",
     "name": "Mia Woods",
+    "instagram": "",
     "isFavorite": false
   },
   {
     "img": "https://raw.githubusercontent.com/mister-josuecedeno/lone-wolf-tattoo/master/src/img/5-PHIL-SMITH.jpg",
     "id": "5",
     "name": "Phil Smith",
+    "instagram": "philsmithtattooer",
     "isFavorite": false
   },
   {
     "img": "https://raw.githubusercontent.com/mister-josuecedeno/lone-wolf-tattoo/master/src/img/6-RIK-SWEENEY.jpg",
     "id": "6",
     "name": "Rik Sweeney",
+    "instagram": "riksweeney",
     "isFavorite": false
   },
   {
     "img": "https://raw.githubusercontent.com/mister-josuecedeno/lone-wolf-tattoo/master/src/img/7-STACEY-DIXON.jpg",
     "id": "7",
     "name": "Stacey Dixon",
+    "instagram": "stacey_dee_dixon",
     "isFavorite": false
   }
 ]
