@@ -1,6 +1,7 @@
 import React from 'react';
 
 const CharacterItem = ({ item }) => {
+  const instaURL = 'https://www.instagram.com/';
   return (
     <div className='card'>
       <div className='card-inner'>
@@ -11,10 +12,8 @@ const CharacterItem = ({ item }) => {
           <h1>{item.name}</h1>
           <ul>
             <li>
-              <strong>Artist Name:</strong> {item.portrayed}
-            </li>
-            <li>
-              <strong>Instagram:</strong> {item.instagram}
+              <strong>Instagram: </strong>
+              <a href={instaURL + item.instagram}>{item.instagram}</a>
             </li>
           </ul>
         </div>
