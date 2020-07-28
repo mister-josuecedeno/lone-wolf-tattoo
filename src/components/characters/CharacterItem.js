@@ -13,9 +13,17 @@ const CharacterItem = ({ item }) => {
           <ul>
             <li>
               <strong>Instagram: </strong>
-              <a href={instaURL + item.instagram} target='_blank'>
+              <a
+                href={instaURL + item.instagram}
+                target='_blank'
+                rel='noopener noreferrer'
+              >
                 {item.instagram}
               </a>
+            </li>
+            <li>
+              <strong>Photo Credit: </strong>
+              Chad Lee
             </li>
           </ul>
         </div>
